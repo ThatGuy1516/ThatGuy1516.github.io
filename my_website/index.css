@@ -1,0 +1,77 @@
+@import url(//fonts.googleapis.com/css?family=Shadows+Into+Light);
+@import url(//fonts.googleapis.com/css?family=Black+Ops+One);
+@import url(//fonts.googleapis.com/css?family=Lekton);
+
+@font-face{
+      font-family: 'Shadows Into Light', cursive;
+}
+
+@font-face{
+    font-family: 'Lekton', sans-serif;
+}
+
+@font-face{
+    font-family: 'Black Ops One', cursive;
+}
+
+
+.thing{
+     font-family: 'Shadows Into Light', cursive;
+     font-size: large;
+     background-color: lightblue;
+}
+
+.thing1{
+    font-family: 'Lekton', sans-serif;
+    font-size: large;
+    background-color: rgb(66,191,244);
+}
+
+.thing2{
+    font-family:'Black Ops One', sans-serif;
+    font-size:large;
+    background-color: rgb(105, 138, 153);
+}
+
+.thing3{
+    font-family:'Black Ops One', sans-serif;
+    font-size:75;
+    background-color: rgb(35, 110, 209);
+    text-align: center;
+}
+   
+.home{
+    font-family:'Shadows Into Light', cursive;
+    font-size: 100000000;
+    background-color: rgb(35, 135, 126);
+}
+
+.aboutMe{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 25;
+    background-color: lightblue;
+}
+
+.aboutMe1{
+    font-family: 'Shadows Into Light', cursive;
+    font-size:20;
+    background-color: lightblue;
+}
+
+.table{
+    font-family: 'Shadows Into Light',cursive;
+    font-size: 30;
+    background-color: rgb(138, 209, 158);
+}
+
+.warframe{
+    font-family: 'Black Ops One', sans-serif;
+    font-size: 25;
+    background-color: rgb(35, 110, 209);
+}
+
+.home1{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 25;
+    background-color: rgb(35, 135, 126);
+}
